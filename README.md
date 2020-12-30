@@ -1,4 +1,4 @@
-# Better Rotation History
+# Better Rotation Mod
 A Mod to allow for better clipboard rotation in Poly Bridge 2.
 
 Features:
