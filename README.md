@@ -11,7 +11,7 @@ It is recommended that you unbind the normal rotation keys (Q and E) in Poly Bri
 
 Required Dependencies:
   - BepInEx: https://github.com/BepInEx/BepInEx/releases
-  - PolyTech Framework: 
+  - PolyTech Framework: https://github.com/PolyTech-Modding/PolyTechFramework
   - Poly Bridge 2: https://store.steampowered.com/app/1062160/Poly_Bridge_2/
 
 You can set up the dependencies by following this tutorial: https://youtu.be/z5PWisAnpqY
