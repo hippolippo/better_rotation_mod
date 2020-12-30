@@ -1,0 +1,17 @@
+/home/hippolippo/PB2 Modding/Rotation/obj/Debug/netstandard2.0/Rotation.csprojAssemblyReference.cache
+/home/hippolippo/PB2 Modding/Rotation/obj/Debug/netstandard2.0/Rotation.AssemblyInfoInputs.cache
+/home/hippolippo/PB2 Modding/Rotation/obj/Debug/netstandard2.0/Rotation.AssemblyInfo.cs
+/home/hippolippo/PB2 Modding/Rotation/obj/Debug/netstandard2.0/Rotation.csproj.CoreCompileInputs.cache
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/Rotation.deps.json
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/Rotation.dll
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/Rotation.pdb
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/0Harmony.dll
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/Assembly-CSharp.dll
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/BepInEx.dll
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/BepInEx.Harmony.dll
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/PolyTechFramework.dll
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/UnityEngine.CoreModule.dll
+/home/hippolippo/PB2 Modding/Rotation/bin/Debug/netstandard2.0/UnityEngine.dll
+/home/hippolippo/PB2 Modding/Rotation/obj/Debug/netstandard2.0/Rotation.csproj.CopyComplete
+/home/hippolippo/PB2 Modding/Rotation/obj/Debug/netstandard2.0/Rotation.dll
+/home/hippolippo/PB2 Modding/Rotation/obj/Debug/netstandard2.0/Rotation.pdb

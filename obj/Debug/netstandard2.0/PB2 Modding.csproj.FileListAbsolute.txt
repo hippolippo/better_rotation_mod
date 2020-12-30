@@ -1,0 +1,17 @@
+/home/hippolippo/PB2 Modding/obj/Debug/netstandard2.0/PB2 Modding.csprojAssemblyReference.cache
+/home/hippolippo/PB2 Modding/obj/Debug/netstandard2.0/PB2 Modding.AssemblyInfoInputs.cache
+/home/hippolippo/PB2 Modding/obj/Debug/netstandard2.0/PB2 Modding.AssemblyInfo.cs
+/home/hippolippo/PB2 Modding/obj/Debug/netstandard2.0/PB2 Modding.csproj.CoreCompileInputs.cache
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/PB2 Modding.deps.json
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/PB2 Modding.dll
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/PB2 Modding.pdb
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/0Harmony.dll
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/Assembly-CSharp.dll
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/BepInEx.dll
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/BepInEx.Harmony.dll
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/PolyTechFramework.dll
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/UnityEngine.CoreModule.dll
+/home/hippolippo/PB2 Modding/bin/Debug/netstandard2.0/UnityEngine.dll
+/home/hippolippo/PB2 Modding/obj/Debug/netstandard2.0/PB2 Modding.csproj.CopyComplete
+/home/hippolippo/PB2 Modding/obj/Debug/netstandard2.0/PB2 Modding.dll
+/home/hippolippo/PB2 Modding/obj/Debug/netstandard2.0/PB2 Modding.pdb
