@@ -17,4 +17,4 @@ Required Dependencies:
 You can set up the dependencies by following this tutorial: https://youtu.be/z5PWisAnpqY
  
  
-You can install this mod by downloading the latest build and putting it is your "Poly Bridge 2/BepInEx/plugins" directory.
+You can install this mod by downloading the latest build (https://github.com/hippolippo/better_rotation_mod/releases/tag/1.1.0) and putting it is your "Poly Bridge 2/BepInEx/plugins" directory.
