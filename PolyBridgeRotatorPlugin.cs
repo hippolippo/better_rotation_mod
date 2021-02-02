@@ -9,7 +9,7 @@ using System.Reflection;
 
 namespace Rotation
 {
-    [BepInPlugin("org.bepinex.plugins.pb2betterrotation", "Better Rotation Mod", "1.1.0")]
+    [BepInPlugin("org.bepinex.plugins.pb2betterrotation", "Better Rotation Mod", "1.1.1")]
     [BepInDependency(PolyTechMain.PluginGuid, BepInDependency.DependencyFlags.HardDependency)]
     public class PolyBridgeRotatorPlugin: PolyTechMod
     {
