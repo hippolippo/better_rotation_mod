@@ -20,6 +20,7 @@ namespace Rotation
         public static ConfigEntry<BepInEx.Configuration.KeyboardShortcut> _keybindMinorRight;
         public static ConfigEntry<int> _controlScale;
         public static ConfigEntry<int> _controlShiftScale;
+        public static ConfigEntry<float> _controlMultiplicator;
 
         public ConfigDefinition modEnableDef = new ConfigDefinition("Rotation Mod", "Enable/Disable Mod");
 
@@ -47,6 +48,7 @@ namespace Rotation
             _keybindMinorRight = Config.Bind(new ConfigDefinition("Minor Right", "45 Degrees Right"), new BepInEx.Configuration.KeyboardShortcut(UnityEngine.KeyCode.None));
             _controlScale = Config.Bind(new ConfigDefinition("Control + Scroll Scale", "The amount to rotate for each scroll wheel click"), 5);
             _controlShiftScale = Config.Bind(new ConfigDefinition("Control + Shift + Scroll Scale", "The amount to rotate for each scroll wheel click"), 1);
+            _controlMultiplicator = Config.Bind(new ConfigDefinition("Control Multiplicator", "Change if scrollwheel rotation is off by a factor"), 1.0f);
         }
 
         void Awake()
@@ -104,7 +106,7 @@ namespace Rotation
         [HarmonyPatch(typeof(GameStateCommonInput), "DoMouseScrollWheel")]
         [HarmonyPrefix]
         private static bool scroll(float delta, bool slow){
-            scrollClicks = delta*20;
+            scrollClicks = delta*20*_controlMultiplicator.Value;
             if(mEnabled.Value){
                 if((ClipboardManager.GetJoints().Count > 0 | ClipboardManager.GetEdges().Count > 0) && controlDown)
                 {
